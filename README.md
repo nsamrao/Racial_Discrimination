@@ -1,4 +1,4 @@
-# Racial_Discrimination
+# Examining Racial Discrimination in the US Job Market
 
 ## Background
 
